@@ -3,7 +3,7 @@
 //  Hydro-Expert
 //
 //  Created by Danijel Maraz on 25.03.22.
-//
+// TODO - configure push notifications here
 
 import UIKit
 
